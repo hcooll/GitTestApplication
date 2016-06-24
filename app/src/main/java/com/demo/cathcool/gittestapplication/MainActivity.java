@@ -9,6 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // 这是我在AS中修改的文案
+        // 这是我在AS中修改的文案  在Git中修改
     }
 }
